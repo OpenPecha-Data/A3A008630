@@ -1,0 +1,19 @@
+segment_sources:
+  PA7CA1891:
+    type: origin_type
+    relation: translation
+    language: en
+  P5BCBFD88:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3e6801b701484cd8a6ea6e58eb6c7f39:
+    PA7CA1891: 57e193262b7e422a809bdb6b0c76a66e
+    P5BCBFD88: 90534bdb3c8f4c59bba5645d4f378967
+  ad7ab3be33424d5f932ccafb79041dc6:
+    PA7CA1891: 04d10543908a41d595627fa038061db0
+    P5BCBFD88: 98b5ba7ab626442eab1be94c6c27e434
+  d406cbc35c384ea8be83a4228743a669:
+    PA7CA1891: 235b697ec7074e158fab536b996a8c24
+    P5BCBFD88: c0f9d9e2032148338738e66e18d7f654

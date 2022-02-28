@@ -1,0 +1,40 @@
+segment_sources:
+  PA7CA1891:
+    type: origin_type
+    relation: translation
+    language: en
+  PB4EB14BB:
+    type: origin_type
+    relation: translation
+    language: de
+  P26959307:
+    type: origin_type
+    relation: translation
+    language: es
+  PA4904BB9:
+    type: origin_type
+    relation: translation
+    language: fr
+  P5BCBFD88:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a429673a82a24e36b1a2bef99be14290:
+    PA7CA1891: 2ca96c999e674ddca154c35c5d75902e
+    PB4EB14BB: 5c491cc6229a4736b6d189ef9dca5797
+    P26959307: 480ed1fcb56d436cb8229ee21cb41da9
+    PA4904BB9: d1100b67e936438dbd5ae2408d96aa5b
+    P5BCBFD88: 537fb37713804002baba8056d0755ba0
+  026e77762e4f434289c342b63b83645d:
+    PA7CA1891: ed0726aac3cc4f52ad93b923be706efd
+    PB4EB14BB: 6a00998e3b42421ea7d3ebde9b4dea82
+    P26959307: 29057a079bef4df2b46e6c8604ecafa4
+    PA4904BB9: e7e58ff8d9b34bd595adc6c1ddec1434
+    P5BCBFD88: 48930334479e4bf789643f304ce436dc
+  974f8050764e467cada91bf18071806a:
+    PA7CA1891: 98613993be1047b798c2578553e76cfd
+    PB4EB14BB: aac38e465b6b41448fd5ac8ffb5f837f
+    P26959307: b52b84cfdbb14d78a712bf646be4bdde
+    PA4904BB9: d0d5dd391f984a4f84a37ee2ed10f13d
+    P5BCBFD88: 001083b7b668480b99cb9d7d793d85d5
